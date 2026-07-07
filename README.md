@@ -365,3 +365,6 @@ This project demonstrates:
 # ⭐ Acknowledgement
 
 This project was developed to explore the application of Artificial Intelligence, Machine Learning, and Data Analytics in creating personalized learning experiences.
+
+# APP LINK
+https://edupro-course-recommendation-htfufu39gwqkcymumuwhar.streamlit.app/
